@@ -1,0 +1,1 @@
+// JavaScript Bundle Initialization\n\n// Wait for the DOM to be ready\ndocument.addEventListener('DOMContentLoaded', function() {\n    // Your code here...\n    console.log('DOM fully loaded and parsed');\n});
